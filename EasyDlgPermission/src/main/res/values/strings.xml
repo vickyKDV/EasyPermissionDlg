@@ -1,0 +1,16 @@
+<resources>
+    <string name="permission_storage">Penyimpanan</string>
+    <string name="permission_location">Lokasi</string>
+    <string name="permission_camera">Kamera</string>
+    <string name="permission_dialog_title">Izinkan %s</string>
+    <string name="permission_dialog_msg">Kami membutuhkan izin agar aplikasi ini dapat berjalan secara normal</string>
+    <string name="permission_title">Mohon berikan akses %s</string>
+    <string name="permission_title_error" translatable="false">Oops, %1$s tidak bisa mengakses izin %s</string>
+    <string name="permission_denied">Kami membutuhkan akses ke %1$s\ntanpa izin %1$s\n%2$s tidak akan bisa digunakan secara normal.</string>
+    <string name="permission_denied_with_naac">"%1$s tidak bisa mengakses ke izin %2$s\nTanpa izin %1$s aplikasi tidak akan berjalan secara normal, Harap izinkan secara manual kedalam setting aplikasi %1$s.\n\nLokasi setting: Apps->%3$s->Permissions"</string>
+    <string name="permission_cancel">Batal</string>
+    <string name="permission_ensure">Izinkan</string>
+    <string name="permission_reject">Tolak</string>
+    <string name="permission_btn_next">Lanjut</string>
+    <string name="permission_go_to_setting">Pergi ke setelan</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="EasyPermissionDialogStyle" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="PermissionTitleColor">@color/EasycolorDlgBlack</item>
+        <item name="PermissionMsgColor">@color/EasycolorDlgBlack</item>
+        <item name="PermissionItemTextColor">@color/EasycolorDlgBlack</item>
+        <item name="PermissionButtonBackground">@drawable/cashitdialog_button_style_primary</item>
+        <item name="PermissionBackround">@drawable/bgprimary</item>
+        <item name="PermissionButtonTextColor">@color/EasycolorDlgWhite</item>
+    </style>
+
+</resources>

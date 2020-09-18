@@ -1,0 +1,3 @@
+include ':EasyDlgPermission'
+include ':app'
+rootProject.name = "ExamplePermissionDialog"
